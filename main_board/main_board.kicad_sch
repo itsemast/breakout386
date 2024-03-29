@@ -1,5 +1,17 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "7979ed65-ccda-4bb8-8907-913d5800ff08")
+	(paper "A4")
+	(title_block
+		(title "Breakout386 main board")
+		(company "Itsemast")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
